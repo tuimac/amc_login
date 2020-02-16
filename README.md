@@ -1,24 +1,19 @@
-# Generate Time Based One-Time Password
+# Auto AMC Login
 
-Generate six digits one time password on linux based OS for AWS MFA.
+AWS management login module can get through without typing IAM user, password
+and multi-factor-authentication.
 
 ## Getting Started
 
-There are information for this tool below so check it out.
-This tool is on the way so if you find bugs or have opinion to improve, please write up to issue.
+This is under development. First of all, create command module on Linux terminal.
+Of course, I prepare to create that for Windows user by using Qt.
 
 ## Installing
 
-Download "genotp" binary file in the dist directory on this repository then copy that binary to directory was added in PATH.
+This is under development. Absolutely, need pip or pip3.
 
 ## How to use
 
-Type in help.
-
-```
-genopt --help
-
-```
 ## Support
 
 Mainly most Linux Distributions.
