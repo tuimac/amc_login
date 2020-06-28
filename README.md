@@ -1,7 +1,6 @@
-# Auto AMC Login
+# Client for Multi Factor Authentication
 
-AWS management login module can get through without typing IAM user, password
-and multi-factor-authentication.
+Automate login with MFA client. This program support the input for authentication with MFA like Amazon Web Services.
 
 ## Getting Started
 
@@ -13,6 +12,8 @@ Of course, I prepare to create that for Windows user by using Qt.
 This is under development. Absolutely, need pip or pip3.
 
 ## How to use
+
+Under Development.
 
 ## Support
 
